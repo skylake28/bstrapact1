@@ -4,10 +4,12 @@
 .navbar{
     padding-left: 100px;
     padding-right: 100px;
-    font-family: 'Kanit', sans-serif;
+
 
 }
-
+.nav-link{
+    font-family: 'Kanit', sans-serif;
+}
 .navbar-brand img{
     max-width: 150px;
     max-height: 150px;
